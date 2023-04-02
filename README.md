@@ -1,9 +1,9 @@
 ## 👀 Hello world!
 
--   📫 My name is Phuong Hoang and I'm a software engineer.
--   🔭 I'm from Vietnam, living in Hanoi and currently working at [VNP GROUP].
--   💬 How to reach me: [Facebook].
--   ⚡ Fun fact: I share... a lot!
+- 📫 My name is Phuong Hoang and I'm a software engineer.
+- 🔭 I'm from Vietnam, living in Hanoi and currently working at [VNP GROUP].
+- 💬 How to reach me: [Facebook].
+- ⚡ Fun fact: I share... a lot!
 
 ### Spotify Playing 🎧
 
@@ -30,6 +30,9 @@
 ![](https://img.shields.io/badge/Stack-Laravel-informational?style=flat&logo=laravel&logoColor=white&labelColor=2f2625)
 ![](https://img.shields.io/badge/Stack-NuxtJS-informational?style=flat&logo=nuxt.js&logoColor=white&labelColor=2f2625)
 ![](https://img.shields.io/badge/Stack-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&labelColor=2f2625)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 📈 GitHub Stats
 
