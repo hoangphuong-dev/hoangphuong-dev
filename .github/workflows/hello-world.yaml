@@ -1,0 +1,9 @@
+name: Hello world
+on:
+  push:
+  branches: [master]
+jobs:
+  say-hello:
+    run-on: ubuntu-latest
+    steps:
+      - run: echo "Hoang Phuong Hello world"
